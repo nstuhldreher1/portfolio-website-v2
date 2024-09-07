@@ -1,7 +1,2 @@
-.container{
-    display: grid;
-    grid-template-columns: 1fr 1248px 1fr;
-}
-.item{
-    grid-column: 2 / 3;
-}
+
+

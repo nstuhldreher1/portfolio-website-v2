@@ -3,7 +3,7 @@ function HomePage(){
 
     return (
         <div>
-            <h1>Hello World!</h1>
+            <h1 className="font-mono">Hello World!</h1>
         </div>
     );
 
